@@ -2,7 +2,7 @@
 
 This project was built in 2019. 
 
-It contains two codes, one for Arduino and another for PIC. The idea is simple, the PIC controller works as a slave receiving params from the Arduino to control a DC Motor. This project aims to turn cheap DC motors into good motors for robotics through effective PID control. 
+It contains two codes, one for Arduino and another for PIC. The idea is simple, the PIC controller works as a slave receiving params through I2C from the Arduino to control a DC Motor. This project aims to turn cheap DC motors into good motors for robotics through effective PID control. 
 
 ## ID SPECIFICATIONS
                          
